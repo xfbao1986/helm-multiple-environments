@@ -1,2 +1,2 @@
-namespace: demo-prod
+namespace: demo-prd
 environment: production
